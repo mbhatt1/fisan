@@ -1,4 +1,4 @@
-mport numpy as np
+import numpy as np
 import pandas as pd
 
 act_train = pd.read_csv('../input/act_train.csv')
